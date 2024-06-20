@@ -66,5 +66,6 @@ public class C03Operator {
         // 왼쪽으로 한칸이동한다는 의미는 2를 곱한다는 의미
         System.out.println(n4 << 1);
 
+
     }
 }
